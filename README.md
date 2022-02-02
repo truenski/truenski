@@ -1,12 +1,12 @@
-<!--<p align="left"><img src="https://komarev.com/ghpvc/?username=Djaysson" alt="Me" /></p>--!>
+<!--<p align="left"><img src="https://komarev.com/ghpvc/?username=truenski" alt="Me" /></p>--!>
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kesney Mendes Viana</h1>
 
 
  <div>
-  <a href="https://github.com/Djaysson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Djaysson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djaysson&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/truenski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=truenski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truenski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
