@@ -1,7 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=truenski" alt="truenski" /></p>
-
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Kesney Mendes </h1>
-       <span>studying web development since 09-2021</span>
+     
 
 
  <div>
@@ -47,6 +46,8 @@
 
  
 </div>
+         <span>studying web development since 09-2021</span>
+
 
 
 
